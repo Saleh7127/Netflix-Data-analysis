@@ -1,1 +1,1 @@
-# Netflix-Data-analysis
+# Exploratory Data Analysis
